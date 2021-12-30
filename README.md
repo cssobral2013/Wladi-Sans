@@ -7,5 +7,4 @@ Full list of changes from Poppins 3.010 (in no particular order):
 - Thickened 'e' crossbar in Regular
 - Adapted 'ae'/'oe' to match the previous two changes
 - Changed 'i'/'j' tittles to rectangular
-- Reduced 'f' height to match 'i' height
 - Added some Latin support
