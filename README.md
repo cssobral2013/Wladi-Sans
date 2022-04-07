@@ -5,6 +5,8 @@ Full list of changes from Poppins 3.010 (in no particular order):
 - Re-done vertical metrics
 - Imported 'a' from Albert Sans (https://github.com/usted/Albert-Sans)
 - Thickened 'e' crossbar in Regular
+- Imported S/s from Poppins 3.100 in Black/Black Italic
+- Re-interpolated 'S'/'s' to match previous change
 - Adapted 'ae'/'oe' to match the previous two changes
 - Changed 'i'/'j' tittles to rectangular
 - Added some Latin support
