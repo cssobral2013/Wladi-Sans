@@ -2,17 +2,26 @@
 glyphname = Tecyr;
 layers = (
 {
-layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
 shapes = (
 {
-alignment = -1;
-ref = T;
+closed = 1;
+nodes = (
+(176,0,l),
+(276,566,l),
+(74,566,l),
+(98,700,l),
+(672,700,l),
+(649,566,l),
+(447,566,l),
+(347,0,l)
+);
 }
 );
 width = 611;
 },
 {
-layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
 shapes = (
 {
 closed = 1;
@@ -31,7 +40,7 @@ nodes = (
 width = 545;
 },
 {
-layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
 shapes = (
 {
 closed = 1;

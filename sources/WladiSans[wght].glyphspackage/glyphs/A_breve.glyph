@@ -2,7 +2,7 @@
 glyphname = Abreve;
 layers = (
 {
-layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+layerId = "F6FB205E-B3AB-4819-9CAF-AB538C51B80E";
 shapes = (
 {
 closed = 1;
@@ -50,7 +50,7 @@ nodes = (
 width = 738;
 },
 {
-layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+layerId = "36B3D2C2-B8FB-4E59-BDB1-E262A6063C52";
 shapes = (
 {
 closed = 1;
@@ -98,16 +98,49 @@ nodes = (
 width = 667;
 },
 {
-layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+layerId = "0C974A3A-E5A4-4FB7-A898-B0FABB9FC9C2";
 shapes = (
 {
-alignment = -1;
-ref = A;
+closed = 1;
+nodes = (
+(34,0,l),
+(294,700,l),
+(346,700,l),
+(605,0,l),
+(547,0,l),
+(476,192,l),
+(163,192,l),
+(93,0,l)
+);
 },
 {
-alignment = -1;
-pos = (191,0);
-ref = brevecomb.cap;
+closed = 1;
+nodes = (
+(459,239,l),
+(320,621,l),
+(180,239,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,763,o),
+(191,818,o),
+(191,878,cs),
+(191,891,l),
+(229,891,l),
+(229,838,o),
+(257,809,o),
+(321,809,cs),
+(385,809,o),
+(413,838,o),
+(413,891,c),
+(452,891,l),
+(452,879,ls),
+(452,818,o),
+(409,763,o),
+(321,763,cs)
+);
 }
 );
 width = 639;

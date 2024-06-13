@@ -2,31 +2,61 @@
 glyphname = Upsilon;
 layers = (
 {
-layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
 shapes = (
 {
-alignment = -1;
-ref = Y;
+closed = 1;
+nodes = (
+(193,0,l),
+(235,232,l),
+(74,700,l),
+(269,700,l),
+(352,409,l),
+(537,700,l),
+(730,700,l),
+(406,232,l),
+(364,0,l)
+);
 }
 );
 width = 659;
 },
 {
-layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
 shapes = (
 {
-alignment = -1;
-ref = Y;
+closed = 1;
+nodes = (
+(190,0,l),
+(239,278,l),
+(89,700,l),
+(152,700,l),
+(274,325,l),
+(529,700,l),
+(591,700,l),
+(294,278,l),
+(245,0,l)
+);
 }
 );
 width = 591;
 },
 {
-layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
 shapes = (
 {
-alignment = -1;
-ref = Y;
+closed = 1;
+nodes = (
+(190,0,l),
+(239,278,l),
+(89,700,l),
+(152,700,l),
+(274,325,l),
+(529,700,l),
+(591,700,l),
+(294,278,l),
+(245,0,l)
+);
 }
 );
 width = 564;

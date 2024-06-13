@@ -2,7 +2,7 @@
 glyphname = Ocircumflex;
 layers = (
 {
-layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+layerId = "F6FB205E-B3AB-4819-9CAF-AB538C51B80E";
 shapes = (
 {
 closed = 1;
@@ -53,7 +53,7 @@ nodes = (
 width = 798;
 },
 {
-layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+layerId = "36B3D2C2-B8FB-4E59-BDB1-E262A6063C52";
 shapes = (
 {
 closed = 1;
@@ -104,16 +104,52 @@ nodes = (
 width = 785;
 },
 {
-layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+layerId = "0C974A3A-E5A4-4FB7-A898-B0FABB9FC9C2";
 shapes = (
 {
-alignment = -1;
-ref = O;
+closed = 1;
+nodes = (
+(185,-12,o),
+(49,135,o),
+(49,350,cs),
+(49,563,o),
+(185,712,o),
+(390,712,cs),
+(595,712,o),
+(731,563,o),
+(731,350,cs),
+(731,135,o),
+(595,-12,o),
+(390,-12,cs)
+);
 },
 {
-alignment = -1;
-pos = (259,0);
-ref = circumflexcomb.cap;
+closed = 1;
+nodes = (
+(559,35,o),
+(674,153,o),
+(674,350,cs),
+(674,546,o),
+(559,664,o),
+(390,664,cs),
+(223,664,o),
+(106,546,o),
+(106,350,cs),
+(106,153,o),
+(223,35,o),
+(390,35,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(259,761,l),
+(259,809,l),
+(390,891,l),
+(521,809,l),
+(521,761,l),
+(390,845,l)
+);
 }
 );
 width = 780;

@@ -2,7 +2,7 @@
 glyphname = Omegatonos;
 layers = (
 {
-layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+layerId = "F6FB205E-B3AB-4819-9CAF-AB538C51B80E";
 shapes = (
 {
 closed = 1;
@@ -139,7 +139,7 @@ nodes = (
 width = 772;
 },
 {
-layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+layerId = "36B3D2C2-B8FB-4E59-BDB1-E262A6063C52";
 shapes = (
 {
 closed = 1;
@@ -153,7 +153,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(386,712,l),
 (335,712,o),
 (290,703,o),
 (251,686,cs),
@@ -276,7 +275,7 @@ nodes = (
 width = 775;
 },
 {
-layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+layerId = "0C974A3A-E5A4-4FB7-A898-B0FABB9FC9C2";
 shapes = (
 {
 closed = 1;
@@ -290,7 +289,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(386,712,l),
 (335,712,o),
 (291,703,o),
 (252,686,cs),
