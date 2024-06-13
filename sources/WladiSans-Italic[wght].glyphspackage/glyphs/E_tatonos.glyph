@@ -1,0 +1,65 @@
+{
+glyphname = Etatonos;
+layers = (
+{
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-78,559,l),
+(55,559,l),
+(144,701,l),
+(-6,701,l)
+);
+},
+{
+alignment = -1;
+ref = H;
+}
+);
+width = 715;
+},
+{
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(13,571,l),
+(82,571,l),
+(161,700,l),
+(80,700,l)
+);
+},
+{
+alignment = -1;
+pos = (31,0);
+ref = H;
+}
+);
+width = 711;
+},
+{
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,576,l),
+(93,576,l),
+(168,700,l),
+(114,700,l)
+);
+},
+{
+alignment = -1;
+pos = (43,0);
+ref = H;
+}
+);
+width = 710;
+}
+);
+unicode = 905;
+}

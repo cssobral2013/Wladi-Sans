@@ -1,0 +1,51 @@
+{
+glyphname = uhorntilde;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (110,17);
+ref = tildecomb;
+}
+);
+width = 569;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (136,12);
+ref = tildecomb;
+}
+);
+width = 545;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (144,10);
+ref = tildecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 7919;
+}

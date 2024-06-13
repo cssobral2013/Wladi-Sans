@@ -1,0 +1,84 @@
+{
+glyphname = Igravecyr;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(709,700,l),
+(529,700,l),
+(236,291,l),
+(236,700,l),
+(65,700,l),
+(65,0,l),
+(236,0,l),
+(537,422,l),
+(537,0,l),
+(709,0,l)
+);
+},
+{
+alignment = -1;
+pos = (266,0);
+ref = gravecomb.cap;
+}
+);
+width = 773;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(682,700,l),
+(593,700,l),
+(180,144,l),
+(180,700,l),
+(93,700,l),
+(93,0,l),
+(180,0,l),
+(594,561,l),
+(594,0,l),
+(682,0,l)
+);
+},
+{
+alignment = -1;
+pos = (281,0);
+ref = gravecomb.cap;
+}
+);
+width = 774;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(671,700,l),
+(618,700,l),
+(158,85,l),
+(158,700,l),
+(104,700,l),
+(104,0,l),
+(158,0,l),
+(617,616,l),
+(617,0,l),
+(671,0,l)
+);
+},
+{
+alignment = -1;
+pos = (287,0);
+ref = gravecomb.cap;
+}
+);
+width = 774;
+}
+);
+unicode = 1037;
+}

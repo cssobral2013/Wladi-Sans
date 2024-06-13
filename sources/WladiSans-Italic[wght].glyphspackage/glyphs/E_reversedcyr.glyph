@@ -1,0 +1,88 @@
+{
+glyphname = Ereversedcyr;
+widthMetricsKey = C;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{375, 700}";
+}
+);
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(631,422,l),
+(354,422,l),
+(330,280,l),
+(607,280,l)
+);
+},
+{
+alignment = -1;
+angle = -180;
+pos = (756,700);
+ref = C;
+}
+);
+width = 744;
+},
+{
+anchors = (
+{
+name = top;
+position = "{376, 700}";
+}
+);
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(618,388,l),
+(313,388,l),
+(302,312,l),
+(608,312,l)
+);
+},
+{
+alignment = -1;
+angle = -180;
+pos = (724,700);
+ref = C;
+}
+);
+width = 709;
+},
+{
+anchors = (
+{
+name = top;
+position = "{377, 700}";
+}
+);
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(613,375,l),
+(296,375,l),
+(291,325,l),
+(608,325,l)
+);
+},
+{
+alignment = -1;
+angle = -180;
+pos = (711,700);
+ref = C;
+}
+);
+width = 695;
+}
+);
+unicode = 1069;
+}

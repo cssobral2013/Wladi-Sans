@@ -1,178 +1,158 @@
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-Thin.woff2') format('woff2'),
-        url('fonts/WladiSans-Thin.woff') format('woff'),
-        url('fonts/WladiSans-Thin.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-ThinItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-ThinItalic.woff') format('woff'),
-        url('fonts/WladiSans-ThinItalic.ttf') format('truetype');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-ExtraLight.woff2') format('woff2'),
-        url('fonts/WladiSans-ExtraLight.woff') format('woff'),
-        url('fonts/WladiSans-ExtraLight.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-ExtraLight.woff2') format('woff2'),
+        url('fonts/web/WladiSans-ExtraLight.woff') format('woff'),
+        url('fonts/ttf/WladiSans-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-ExtraLightItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-ExtraLightItalic.woff') format('woff'),
-        url('fonts/WladiSans-ExtraLightItalic.ttf') format('truetype');
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-Light.woff2') format('woff2'),
-        url('fonts/WladiSans-Light.woff') format('woff'),
-        url('fonts/WladiSans-Light.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-Light.woff2') format('woff2'),
+        url('fonts/web/WladiSans-Light.woff') format('woff'),
+        url('fonts/ttf/WladiSans-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-LightItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-LightItalic.woff') format('woff'),
-        url('fonts/WladiSans-LightItalic.ttf') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-Regular.woff2') format('woff2'),
-        url('fonts/WladiSans-Regular.woff') format('woff'),
-        url('fonts/WladiSans-Regular.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-Regular.woff2') format('woff2'),
+        url('fonts/web/WladiSans-Regular.woff') format('woff'),
+        url('fonts/ttf/WladiSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-Italic.woff2') format('woff2'),
-        url('fonts/WladiSans-Italic.woff') format('woff'),
-        url('fonts/WladiSans-Italic.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-Medium.woff2') format('woff2'),
-        url('fonts/WladiSans-Medium.woff') format('woff'),
-        url('fonts/WladiSans-Medium.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-Medium.woff2') format('woff2'),
+        url('fonts/web/WladiSans-Medium.woff') format('woff'),
+        url('fonts/ttf/WladiSans-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-MediumItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-MediumItalic.woff') format('woff'),
-        url('fonts/WladiSans-MediumItalic.ttf') format('truetype');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-SemiBold.woff2') format('woff2'),
-        url('fonts/WladiSans-SemiBold.woff') format('woff'),
-        url('fonts/WladiSans-SemiBold.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-SemiBold.woff2') format('woff2'),
+        url('fonts/web/WladiSans-SemiBold.woff') format('woff'),
+        url('fonts/ttf/WladiSans-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-SemiBoldItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-SemiBoldItalic.woff') format('woff'),
-        url('fonts/WladiSans-SemiBoldItalic.ttf') format('truetype');
-    font-weight: 600;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-Bold.woff2') format('woff2'),
-        url('fonts/WladiSans-Bold.woff') format('woff'),
-        url('fonts/WladiSans-Bold.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-Bold.woff2') format('woff2'),
+        url('fonts/web/WladiSans-Bold.woff') format('woff'),
+        url('fonts/ttf/WladiSans-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-BoldItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-BoldItalic.woff') format('woff'),
-        url('fonts/WladiSans-BoldItalic.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-ExtraBold.woff2') format('woff2'),
-        url('fonts/WladiSans-ExtraBold.woff') format('woff'),
-        url('fonts/WladiSans-ExtraBold.ttf') format('truetype');
-    font-weight: bold;
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-ExtraBold.woff2') format('woff2'),
+        url('fonts/web/WladiSans-ExtraBold.woff') format('woff'),
+        url('fonts/ttf/WladiSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-ExtraBoldItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-ExtraBoldItalic.woff') format('woff'),
-        url('fonts/WladiSans-ExtraBoldItalic.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-Black.woff2') format('woff2'),
-        url('fonts/WladiSans-Black.woff') format('woff'),
-        url('fonts/WladiSans-Black.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-Black.woff2') format('woff2'),
+        url('fonts/web/WladiSans-Black.woff') format('woff'),
+        url('fonts/ttf/WladiSans-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Wladi Sans';
-    src: url('fonts/WladiSans-BlackItalic.woff2') format('woff2'),
-        url('fonts/WladiSans-BlackItalic.woff') format('woff'),
-        url('fonts/WladiSans-BlackItalic.ttf') format('truetype');
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-ExtraLightItalic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-LightItalic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-LightItalic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-Italic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-Italic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-MediumItalic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-MediumItalic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-SemiBoldItalic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-BoldItalic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-BoldItalic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bertioga Sans';
+    src: url('fonts/web/WladiSans-BlackItalic.woff2') format('woff2'),
+        url('fonts/web/WladiSans-BlackItalic.woff') format('woff'),
+        url('fonts/ttf/WladiSans-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;

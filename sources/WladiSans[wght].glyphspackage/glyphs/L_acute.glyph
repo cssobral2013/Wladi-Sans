@@ -1,0 +1,52 @@
+{
+glyphname = Lacute;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (53,0);
+ref = acutecomb.cap;
+}
+);
+width = 577;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (29,0);
+ref = acutecomb.cap;
+}
+);
+width = 528;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (20,0);
+ref = acutecomb.cap;
+}
+);
+width = 508;
+}
+);
+rightKerningGroup = L;
+unicode = 313;
+}

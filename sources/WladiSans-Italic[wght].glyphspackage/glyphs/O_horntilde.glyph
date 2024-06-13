@@ -1,0 +1,51 @@
+{
+glyphname = Ohorntilde;
+layers = (
+{
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (218,219);
+ref = tildecomb;
+}
+);
+width = 779;
+},
+{
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (267,203);
+ref = tildecomb;
+}
+);
+width = 761;
+},
+{
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (287,197);
+ref = tildecomb;
+}
+);
+width = 754;
+}
+);
+unicode = 7904;
+}

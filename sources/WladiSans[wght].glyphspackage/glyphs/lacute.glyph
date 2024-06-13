@@ -1,0 +1,54 @@
+{
+glyphname = lacute;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (44,226);
+ref = acute;
+scale = (1.008,1.008);
+}
+);
+width = 297;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (18,226);
+ref = acute;
+scale = (1.008,1.008);
+}
+);
+width = 227;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (7,226);
+ref = acute;
+scale = (1.008,1.008);
+}
+);
+width = 199;
+}
+);
+unicode = 314;
+}

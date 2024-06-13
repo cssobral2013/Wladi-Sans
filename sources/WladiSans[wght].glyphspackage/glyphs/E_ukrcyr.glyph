@@ -1,0 +1,82 @@
+{
+glyphname = Eukrcyr;
+widthMetricsKey = C;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{351, 700}";
+}
+);
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(53,271,l),
+(400,271,l),
+(400,428,l),
+(53,428,l)
+);
+},
+{
+alignment = -1;
+ref = C;
+}
+);
+width = 754;
+},
+{
+anchors = (
+{
+name = top;
+position = "{353, 700}";
+}
+);
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,310,l),
+(407,310,l),
+(407,389,l),
+(60,389,l)
+);
+},
+{
+alignment = -1;
+ref = C;
+}
+);
+width = 722;
+},
+{
+anchors = (
+{
+name = top;
+position = "{354, 700}";
+}
+);
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(63,326,l),
+(410,326,l),
+(410,374,l),
+(63,374,l)
+);
+},
+{
+alignment = -1;
+ref = C;
+}
+);
+width = 709;
+}
+);
+unicode = 1028;
+}

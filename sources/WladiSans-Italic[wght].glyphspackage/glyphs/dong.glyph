@@ -1,0 +1,63 @@
+{
+glyphname = dong;
+layers = (
+{
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-15,-50,l),
+(-36,-177,l),
+(550,-177,l),
+(571,-50,l)
+);
+},
+{
+alignment = -1;
+ref = dcroat;
+}
+);
+width = 595;
+},
+{
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-4,-50,l),
+(-15,-122,l),
+(509,-122,l),
+(521,-50,l)
+);
+},
+{
+alignment = -1;
+ref = dcroat;
+}
+);
+width = 606;
+},
+{
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1,-50,l),
+(-7,-100,l),
+(493,-100,l),
+(501,-50,l)
+);
+},
+{
+alignment = -1;
+ref = dcroat;
+}
+);
+width = 610;
+}
+);
+unicode = 8363;
+}

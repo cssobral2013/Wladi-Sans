@@ -1,0 +1,52 @@
+{
+glyphname = uhorngrave;
+widthMetricsKey = u;
+layers = (
+{
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (138,0);
+ref = gravecomb;
+}
+);
+width = 637;
+},
+{
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (131,11);
+ref = gravecomb;
+}
+);
+width = 553;
+},
+{
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (128,15);
+ref = gravecomb;
+}
+);
+width = 520;
+}
+);
+unicode = 7915;
+}

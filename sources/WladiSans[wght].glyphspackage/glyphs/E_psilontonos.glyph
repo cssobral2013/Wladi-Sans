@@ -1,0 +1,63 @@
+{
+glyphname = Epsilontonos;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-187,556,l),
+(-33,556,l),
+(41,701,l),
+(-132,701,l)
+);
+},
+{
+alignment = -1;
+ref = E;
+}
+);
+width = 587;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-69,570,l),
+(7,570,l),
+(71,700,l),
+(-19,700,l)
+);
+},
+{
+alignment = -1;
+ref = E;
+}
+);
+width = 591;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-22,576,l),
+(23,576,l),
+(83,700,l),
+(26,700,l)
+);
+},
+{
+alignment = -1;
+ref = E;
+}
+);
+width = 593;
+}
+);
+unicode = 904;
+}

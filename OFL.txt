@@ -1,10 +1,12 @@
-Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com)
-Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)
-Copyright 2020-2021 The Wladi Sans Project Authors (cssobral2013@gmail.com - https://github.com/cssobral2013/Wladi-Sans)
+Copyright 2019-2024 The Wladi Sans Project Authors (https://github.com/cssobral2013/Wladi-Sans)
+Portions are:
+Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)
+Copyright 2023 The Figtree-Cyrillic Project Authors (https://github.com/drawcard/figtree)
+Copyright 2023 The Unageo Project Authors (https://github.com/richardsepsi/unageo)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
@@ -20,7 +22,7 @@ with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
 redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded,
+fonts, including any derivative works, can be bundled, embedded, 
 redistributed and/or sold with any software provided that any reserved
 names are not used by derivative works. The fonts and derivatives,
 however, cannot be released under any other type of license. The

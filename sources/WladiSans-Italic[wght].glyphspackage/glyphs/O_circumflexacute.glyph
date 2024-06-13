@@ -1,0 +1,52 @@
+{
+glyphname = Ocircumflexacute;
+layers = (
+{
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = Ocircumflex;
+},
+{
+alignment = -1;
+pos = (581,352);
+ref = acutecomb;
+}
+);
+width = 762;
+},
+{
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+alignment = -1;
+ref = Ocircumflex;
+},
+{
+alignment = -1;
+pos = (545,324);
+ref = acutecomb;
+}
+);
+width = 760;
+},
+{
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+alignment = -1;
+ref = Ocircumflex;
+},
+{
+alignment = -1;
+pos = (531,313);
+ref = acutecomb;
+}
+);
+width = 759;
+}
+);
+unicode = 7888;
+}

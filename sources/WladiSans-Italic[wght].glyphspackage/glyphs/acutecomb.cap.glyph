@@ -1,0 +1,50 @@
+{
+glyphname = acutecomb.cap;
+layers = (
+{
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,738,l),
+(101,856,l),
+(363,972,l),
+(340,839,l)
+);
+}
+);
+width = 230;
+},
+{
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,742,l),
+(92,807,l),
+(326,933,l),
+(313,857,l)
+);
+}
+);
+width = 198;
+},
+{
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,743,l),
+(88,787,l),
+(311,917,l),
+(301,864,l)
+);
+}
+);
+width = 185;
+}
+);
+}

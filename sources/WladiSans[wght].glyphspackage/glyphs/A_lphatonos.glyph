@@ -1,0 +1,63 @@
+{
+glyphname = Alphatonos;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-9,556,l),
+(145,556,l),
+(220,701,l),
+(46,701,l)
+);
+},
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 739;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(31,570,l),
+(107,570,l),
+(172,700,l),
+(81,700,l)
+);
+},
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 679;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(47,576,l),
+(92,576,l),
+(153,700,l),
+(95,700,l)
+);
+},
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 655;
+}
+);
+unicode = 902;
+}

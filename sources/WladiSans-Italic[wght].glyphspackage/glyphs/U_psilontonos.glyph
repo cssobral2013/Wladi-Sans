@@ -1,0 +1,63 @@
+{
+glyphname = Upsilontonos;
+layers = (
+{
+layerId = "006414F6-AB32-4F37-AE27-2ADC4DCE78FB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-134,559,l),
+(-1,559,l),
+(88,700,l),
+(-63,700,l)
+);
+},
+{
+alignment = -1;
+ref = Y;
+}
+);
+width = 650;
+},
+{
+layerId = "797178CA-EA28-4B78-93E8-321876F1BDF3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-67,571,l),
+(3,571,l),
+(82,700,l),
+(-1,700,l)
+);
+},
+{
+alignment = -1;
+ref = Y;
+}
+);
+width = 589;
+},
+{
+layerId = "9F3B9F63-BB4B-4875-904D-0FA4124C677C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-40,576,l),
+(4,576,l),
+(80,700,l),
+(24,700,l)
+);
+},
+{
+alignment = -1;
+ref = Y;
+}
+);
+width = 564;
+}
+);
+unicode = 910;
+}

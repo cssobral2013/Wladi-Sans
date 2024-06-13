@@ -1,0 +1,65 @@
+{
+glyphname = Iotatonos;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-177,556,l),
+(-23,556,l),
+(51,701,l),
+(-122,701,l)
+);
+},
+{
+alignment = -1;
+ref = I;
+}
+);
+width = 287;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-59,570,l),
+(17,570,l),
+(81,700,l),
+(-9,700,l)
+);
+},
+{
+alignment = -1;
+pos = (19,0);
+ref = I;
+}
+);
+width = 265;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-12,576,l),
+(33,576,l),
+(93,700,l),
+(36,700,l)
+);
+},
+{
+alignment = -1;
+pos = (26,0);
+ref = I;
+}
+);
+width = 256;
+}
+);
+unicode = 906;
+}

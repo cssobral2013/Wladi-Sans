@@ -1,0 +1,51 @@
+{
+glyphname = litre;
+layers = (
+{
+layerId = "3C0957B3-9451-4BAD-AE3B-C8576C323C81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(63,-101,l),
+(63,726,l),
+(235,726,l),
+(235,-101,l)
+);
+}
+);
+width = 297;
+},
+{
+layerId = "C91D2DC0-8AAD-4B21-B0E6-07AA6617D11E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(74,-101,l),
+(74,726,l),
+(163,726,l),
+(163,-101,l)
+);
+}
+);
+width = 237;
+},
+{
+layerId = "972C881F-D909-4F62-92A5-F720CB79AC7E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(79,-101,l),
+(79,726,l),
+(134,726,l),
+(134,-101,l)
+);
+}
+);
+width = 213;
+}
+);
+unicode = 8467;
+}
