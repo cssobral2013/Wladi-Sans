@@ -2,7 +2,7 @@
 glyphname = kappa;
 layers = (
 {
-layerId = "F6FB205E-B3AB-4819-9CAF-AB538C51B80E";
+layerId = "BB5B5596-5E1F-4BCA-852B-56C614C2EA8E";
 shapes = (
 {
 closed = 1;
@@ -45,7 +45,7 @@ nodes = (
 width = 576;
 },
 {
-layerId = "36B3D2C2-B8FB-4E59-BDB1-E262A6063C52";
+layerId = "E4D0624D-8000-4CFF-8595-BC700BCBE458";
 shapes = (
 {
 closed = 1;
@@ -88,7 +88,7 @@ nodes = (
 width = 495;
 },
 {
-layerId = "0C974A3A-E5A4-4FB7-A898-B0FABB9FC9C2";
+layerId = "E70FFCB9-C703-4CAE-9CF8-4537993847F6";
 shapes = (
 {
 closed = 1;

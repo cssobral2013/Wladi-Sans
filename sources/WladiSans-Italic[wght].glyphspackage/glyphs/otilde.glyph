@@ -3,7 +3,7 @@ glyphname = otilde;
 widthMetricsKey = o;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 alignment = -1;
@@ -11,15 +11,15 @@ ref = o;
 },
 {
 alignment = -1;
-pos = (129,0);
+pos = (106,0);
 ref = tilde;
 scale = (1.008,1.008);
 }
 );
-width = 614;
+width = 625;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 alignment = -1;
@@ -27,15 +27,15 @@ ref = o;
 },
 {
 alignment = -1;
-pos = (129,0);
+pos = (125,0);
 ref = tilde;
 scale = (1.008,1.008);
 }
 );
-width = 584;
+width = 599;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 alignment = -1;
@@ -43,15 +43,15 @@ ref = o;
 },
 {
 alignment = -1;
-pos = (129,0);
+pos = (132,0);
 ref = tilde;
 scale = (1.008,1.008);
 }
 );
-width = 572;
+width = 588;
 }
 );
-leftKerningGroup = a2;
+leftKerningGroup = c2;
 rightKerningGroup = b;
 unicode = 245;
 }

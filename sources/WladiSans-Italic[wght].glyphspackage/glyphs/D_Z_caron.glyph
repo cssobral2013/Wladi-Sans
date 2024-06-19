@@ -4,7 +4,7 @@ glyphname = DZcaron;
 widthMetricsKey = "=D+Z";
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 alignment = -1;
@@ -12,14 +12,14 @@ ref = D;
 },
 {
 alignment = -1;
-pos = (672,0);
+pos = (695,0);
 ref = Zcaron;
 }
 );
-width = 1303;
+width = 1322;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 alignment = -1;
@@ -27,14 +27,14 @@ ref = D;
 },
 {
 alignment = -1;
-pos = (702,0);
+pos = (710,0);
 ref = Zcaron;
 }
 );
-width = 1211;
+width = 1234;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 alignment = -1;
@@ -42,11 +42,11 @@ ref = D;
 },
 {
 alignment = -1;
-pos = (712,0);
+pos = (716,0);
 ref = Zcaron;
 }
 );
-width = 1173;
+width = 1200;
 }
 );
 unicode = 452;

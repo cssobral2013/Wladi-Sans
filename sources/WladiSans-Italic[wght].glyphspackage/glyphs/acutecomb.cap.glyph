@@ -2,49 +2,49 @@
 glyphname = acutecomb.cap;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(80,738,l),
-(101,856,l),
-(363,972,l),
-(340,839,l)
+(0,738,l),
+(0,856,l),
+(241,972,l),
+(241,839,l)
 );
 }
 );
-width = 230;
+width = 241;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 closed = 1;
 nodes = (
-(80,742,l),
-(92,807,l),
-(326,933,l),
-(313,857,l)
+(0,742,l),
+(0,807,l),
+(212,933,l),
+(212,857,l)
 );
 }
 );
-width = 198;
+width = 212;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(80,743,l),
-(88,787,l),
-(311,917,l),
-(301,864,l)
+(0,743,l),
+(0,787,l),
+(200,917,l),
+(200,864,l)
 );
 }
 );
-width = 185;
+width = 200;
 }
 );
 }

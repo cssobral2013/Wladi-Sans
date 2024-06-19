@@ -2,52 +2,51 @@
 glyphname = dotlessi;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(12,0,l),
-(101,500,l),
-(273,500,l),
-(185,0,l)
+(63,0,l),
+(63,500,l),
+(235,500,l),
+(235,0,l)
 );
 }
 );
-width = 285;
+width = 297;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 closed = 1;
 nodes = (
-(18,0,l),
-(106,500,l),
-(195,500,l),
-(108,0,l)
+(69,0,l),
+(69,500,l),
+(158,500,l),
+(158,0,l)
 );
 }
 );
-width = 214;
+width = 227;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(20,0,l),
-(108,500,l),
-(163,500,l),
-(76,0,l)
+(72,0,l),
+(72,500,l),
+(127,500,l),
+(127,0,l)
 );
 }
 );
-width = 185;
+width = 199;
 }
 );
 leftKerningGroup = m;
-rightKerningGroup = a;
 unicode = 305;
 }

@@ -2,21 +2,16 @@
 glyphname = space;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
-width = 219;
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
+width = 212;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
-width = 269;
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+width = 263;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
-width = 289;
-},
-{
-layerId = "6381F42F-F1FF-4F15-8745-0EB25D66EBC4";
-name = "#instance";
-width = 269;
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+width = 283;
 }
 );
 unicode = 32;

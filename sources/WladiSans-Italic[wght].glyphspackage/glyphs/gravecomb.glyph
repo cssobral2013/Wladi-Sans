@@ -2,49 +2,49 @@
 glyphname = gravecomb;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(285,534,l),
-(63,635,l),
-(86,768,l),
-(307,652,l)
+(241,534,l),
+(0,635,l),
+(0,768,l),
+(241,652,l)
 );
 }
 );
-width = 230;
+width = 241;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 closed = 1;
 nodes = (
-(255,538,l),
-(64,653,l),
-(78,729,l),
-(267,603,l)
+(212,538,l),
+(0,653,l),
+(0,729,l),
+(212,603,l)
 );
 }
 );
-width = 197;
+width = 212;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(243,539,l),
-(64,660,l),
-(74,713,l),
-(250,583,l)
+(200,539,l),
+(0,660,l),
+(0,713,l),
+(200,583,l)
 );
 }
 );
-width = 184;
+width = 200;
 }
 );
 unicode = 768;

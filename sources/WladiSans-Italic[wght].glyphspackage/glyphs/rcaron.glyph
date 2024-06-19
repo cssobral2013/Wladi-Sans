@@ -2,7 +2,7 @@
 glyphname = rcaron;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 alignment = -1;
@@ -15,10 +15,10 @@ ref = caroncomb;
 scale = (1.008,1.008);
 }
 );
-width = 428;
+width = 431;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 alignment = -1;
@@ -26,15 +26,15 @@ ref = r;
 },
 {
 alignment = -1;
-pos = (83,0);
+pos = (84,0);
 ref = caroncomb;
 scale = (1.008,1.008);
 }
 );
-width = 360;
+width = 370;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 alignment = -1;
@@ -42,12 +42,12 @@ ref = r;
 },
 {
 alignment = -1;
-pos = (74,0);
+pos = (75,0);
 ref = caroncomb;
 scale = (1.008,1.008);
 }
 );
-width = 333;
+width = 345;
 }
 );
 leftKerningGroup = m;

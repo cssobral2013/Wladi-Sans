@@ -2,7 +2,7 @@
 glyphname = Ocircumflexgrave;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 alignment = -1;
@@ -10,14 +10,14 @@ ref = Ocircumflex;
 },
 {
 alignment = -1;
-pos = (110,348);
+pos = (68,366);
 ref = gravecomb;
 }
 );
-width = 762;
+width = 794;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 alignment = -1;
@@ -25,14 +25,14 @@ ref = Ocircumflex;
 },
 {
 alignment = -1;
-pos = (137,313);
+pos = (100,332);
 ref = gravecomb;
 }
 );
-width = 760;
+width = 781;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 alignment = -1;
@@ -40,11 +40,11 @@ ref = Ocircumflex;
 },
 {
 alignment = -1;
-pos = (148,299);
+pos = (113,318);
 ref = gravecomb;
 }
 );
-width = 759;
+width = 776;
 }
 );
 unicode = 7890;

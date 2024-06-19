@@ -2,49 +2,49 @@
 glyphname = minus;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(39,218,l),
-(64,360,l),
-(504,360,l),
-(479,218,l)
+(50,218,l),
+(50,360,l),
+(490,360,l),
+(490,218,l)
 );
 }
 );
-width = 528;
+width = 540;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 closed = 1;
 nodes = (
-(56,253,l),
-(69,327,l),
-(468,327,l),
-(455,253,l)
+(62,253,l),
+(62,328,l),
+(461,328,l),
+(461,253,l)
 );
 }
 );
-width = 509;
+width = 523;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(63,267,l),
-(71,314,l),
-(453,314,l),
-(445,267,l)
+(67,267,l),
+(67,315,l),
+(449,315,l),
+(449,267,l)
 );
 }
 );
-width = 501;
+width = 516;
 }
 );
 leftKerningGroup = minus2;

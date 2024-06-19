@@ -1,9 +1,8 @@
 {
 glyphname = Ecircumflexacute;
-widthMetricsKey = E;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 alignment = -1;
@@ -11,14 +10,14 @@ ref = Ecircumflex;
 },
 {
 alignment = -1;
-pos = (469,352);
+pos = (382,378);
 ref = acutecomb;
 }
 );
-width = 566;
+width = 587;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 alignment = -1;
@@ -26,14 +25,14 @@ ref = Ecircumflex;
 },
 {
 alignment = -1;
-pos = (430,321);
+pos = (367,342);
 ref = acutecomb;
 }
 );
-width = 529;
+width = 592;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 alignment = -1;
@@ -41,11 +40,11 @@ ref = Ecircumflex;
 },
 {
 alignment = -1;
-pos = (415,308);
+pos = (361,327);
 ref = acutecomb;
 }
 );
-width = 514;
+width = 594;
 }
 );
 unicode = 7870;

@@ -1,0 +1,52 @@
+{
+color = (153, 155, 255, 255);
+glyphname = Uinvertedbreve;
+layers = (
+{
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (353,200);
+ref = breveinvertedcomb;
+}
+);
+width = 705;
+},
+{
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (330,200);
+ref = breveinvertedcomb;
+}
+);
+width = 659;
+},
+{
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (154,200);
+ref = breveinvertedcomb;
+}
+);
+width = 640;
+}
+);
+unicode = 534;
+}

@@ -2,49 +2,49 @@
 glyphname = macroncomb;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(50,566,l),
-(71,684,l),
-(471,684,l),
-(450,566,l)
+(0,566,l),
+(0,684,l),
+(400,684,l),
+(400,566,l)
 );
 }
 );
-width = 388;
+width = 400;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 closed = 1;
 nodes = (
-(53,591,l),
-(65,656,l),
-(415,656,l),
-(404,591,l)
+(0,591,l),
+(0,656,l),
+(350,656,l),
+(350,591,l)
 );
 }
 );
-width = 336;
+width = 350;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(54,601,l),
-(62,645,l),
-(392,645,l),
-(385,601,l)
+(0,601,l),
+(0,645,l),
+(330,645,l),
+(330,601,l)
 );
 }
 );
-width = 315;
+width = 330;
 }
 );
 unicode = 772;

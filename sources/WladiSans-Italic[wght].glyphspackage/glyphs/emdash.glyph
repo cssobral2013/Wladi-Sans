@@ -2,49 +2,49 @@
 glyphname = emdash;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(39,218,l),
-(64,360,l),
-(854,360,l),
-(829,218,l)
+(50,218,l),
+(50,360,l),
+(840,360,l),
+(840,218,l)
 );
 }
 );
-width = 878;
+width = 890;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 closed = 1;
 nodes = (
-(53,253,l),
-(65,327,l),
-(797,327,l),
-(784,253,l)
+(59,253,l),
+(59,327,l),
+(790,327,l),
+(790,253,l)
 );
 }
 );
-width = 834;
+width = 848;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(58,267,l),
-(65,314,l),
-(774,314,l),
-(766,267,l)
+(62,267,l),
+(62,314,l),
+(770,314,l),
+(770,267,l)
 );
 }
 );
-width = 817;
+width = 831;
 }
 );
 leftKerningGroup = minus2;

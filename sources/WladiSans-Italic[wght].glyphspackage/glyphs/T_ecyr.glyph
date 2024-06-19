@@ -2,61 +2,34 @@
 glyphname = Tecyr;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(176,0,l),
-(276,566,l),
-(74,566,l),
-(98,700,l),
-(672,700,l),
-(649,566,l),
-(447,566,l),
-(347,0,l)
-);
+alignment = -1;
+ref = T;
 }
 );
-width = 611;
+width = 621;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
-closed = 1;
-nodes = (
-(264,465,l),
-(214,162,l),
-(195,162,l),
-(281,665,l),
-(609,665,l),
-(608,662,l),
-(182,662,l),
-(148,465,l)
-);
+alignment = -1;
+ref = T;
 }
 );
-width = 545;
+width = 562;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(299,651,l),
-(190,0,l),
-(244,0,l),
-(354,651,l),
-(584,651,l),
-(592,700,l),
-(76,700,l),
-(69,651,l)
-);
+alignment = -1;
+ref = T;
 }
 );
-width = 519;
+width = 539;
 }
 );
 unicode = 1058;

@@ -2,49 +2,49 @@
 glyphname = I;
 layers = (
 {
-layerId = "84C8819D-02E3-4D9D-80EE-F3CA29327F71";
+layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(12,0,l),
-(136,700,l),
-(307,700,l),
-(183,0,l)
+(62,0,l),
+(62,700,l),
+(233,700,l),
+(233,0,l)
 );
 }
 );
-width = 283;
+width = 295;
 },
 {
-layerId = "44586365-17B2-4B09-91E8-CEE5E00BC966";
+layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
 shapes = (
 {
 closed = 1;
 nodes = (
-(23,0,l),
-(146,700,l),
-(235,700,l),
-(111,0,l)
+(73,0,l),
+(73,700,l),
+(162,700,l),
+(162,0,l)
 );
 }
 );
-width = 221;
+width = 235;
 },
 {
-layerId = "EC825F25-5E21-4444-B100-FC828A5BE381";
+layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(27,0,l),
-(150,700,l),
-(205,700,l),
-(82,0,l)
+(78,0,l),
+(78,700,l),
+(133,700,l),
+(133,0,l)
 );
 }
 );
-width = 196;
+width = 211;
 }
 );
 unicode = 73;
