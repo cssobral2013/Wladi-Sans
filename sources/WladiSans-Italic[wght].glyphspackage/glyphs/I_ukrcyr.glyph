@@ -2,34 +2,49 @@
 glyphname = Iukrcyr;
 layers = (
 {
-layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
+layerId = "2916D4A4-8684-4E16-97E6-1E1555060A99";
 shapes = (
 {
-alignment = -1;
-ref = I;
+closed = 1;
+nodes = (
+(12,0,l),
+(136,700,l),
+(307,700,l),
+(183,0,l)
+);
 }
 );
-width = 295;
+width = 283;
 },
 {
-layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+layerId = "C58D79E9-5C27-47CF-BCFD-A6E10D98D405";
 shapes = (
 {
-alignment = -1;
-ref = I;
+closed = 1;
+nodes = (
+(23,0,l),
+(146,700,l),
+(234,700,l),
+(111,0,l)
+);
 }
 );
-width = 235;
+width = 221;
 },
 {
-layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+layerId = "13CE2B3A-5842-4154-B805-A41E50C98059";
 shapes = (
 {
-alignment = -1;
-ref = I;
+closed = 1;
+nodes = (
+(27,0,l),
+(150,700,l),
+(205,700,l),
+(82,0,l)
+);
 }
 );
-width = 211;
+width = 196;
 }
 );
 unicode = 1030;

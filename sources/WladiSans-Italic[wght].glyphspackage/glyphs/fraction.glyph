@@ -2,49 +2,49 @@
 glyphname = fraction;
 layers = (
 {
-layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
+layerId = "2916D4A4-8684-4E16-97E6-1E1555060A99";
 shapes = (
 {
 closed = 1;
 nodes = (
-(10,0,l),
-(393,700,l),
-(558,700,l),
-(175,0,l)
+(-47,0,l),
+(460,700,l),
+(625,700,l),
+(118,0,l)
 );
 }
 );
-width = 570;
+width = 558;
 },
 {
-layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+layerId = "C58D79E9-5C27-47CF-BCFD-A6E10D98D405";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-22,0,l),
-(383,700,l),
-(472,700,l),
-(66,0,l)
+(-80,0,l),
+(449,700,l),
+(537,700,l),
+(8,0,l)
 );
 }
 );
-width = 438;
+width = 423;
 },
 {
-layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+layerId = "13CE2B3A-5842-4154-B805-A41E50C98059";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-35,0,l),
-(379,700,l),
-(437,700,l),
-(22,0,l)
+(-93,0,l),
+(445,700,l),
+(502,700,l),
+(-36,0,l)
 );
 }
 );
-width = 385;
+width = 369;
 }
 );
 unicode = 8260;

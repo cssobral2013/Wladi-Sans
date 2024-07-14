@@ -1,9 +1,8 @@
 {
-color = (153, 155, 255, 255);
 glyphname = Dzcaron;
 layers = (
 {
-layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
+layerId = "2916D4A4-8684-4E16-97E6-1E1555060A99";
 shapes = (
 {
 alignment = -1;
@@ -11,19 +10,19 @@ ref = D;
 },
 {
 alignment = -1;
-pos = (726,0);
+pos = (719,0);
 ref = z;
 },
 {
 alignment = -1;
-pos = (768,10);
+pos = (782,-20);
 ref = caron;
 }
 );
-width = 1235;
+width = 1219;
 },
 {
-layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+layerId = "C58D79E9-5C27-47CF-BCFD-A6E10D98D405";
 shapes = (
 {
 alignment = -1;
@@ -31,19 +30,19 @@ ref = D;
 },
 {
 alignment = -1;
-pos = (697,0);
+pos = (688,0);
 ref = z;
 },
 {
 alignment = -1;
-pos = (760,10);
+pos = (773,-20);
 ref = caron;
 }
 );
-width = 1156;
+width = 1134;
 },
 {
-layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+layerId = "13CE2B3A-5842-4154-B805-A41E50C98059";
 shapes = (
 {
 alignment = -1;
@@ -51,16 +50,16 @@ ref = D;
 },
 {
 alignment = -1;
-pos = (686,0);
+pos = (675,0);
 ref = z;
 },
 {
 alignment = -1;
-pos = (756,10);
+pos = (770,-20);
 ref = caron;
 }
 );
-width = 1125;
+width = 1099;
 }
 );
 unicode = 453;

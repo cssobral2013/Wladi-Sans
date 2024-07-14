@@ -2,7 +2,7 @@
 glyphname = iotadieresistonos;
 layers = (
 {
-layerId = "BB5B5596-5E1F-4BCA-852B-56C614C2EA8E";
+layerId = "801975A8-2B28-48D2-ACC9-91C57621CBC0";
 shapes = (
 {
 closed = 1;
@@ -158,7 +158,7 @@ nodes = (
 width = 445;
 },
 {
-layerId = "E4D0624D-8000-4CFF-8595-BC700BCBE458";
+layerId = "108F7D4A-630E-4424-A5B2-B42F8C482EB9";
 shapes = (
 {
 closed = 1;
@@ -212,7 +212,7 @@ nodes = (
 (21,654,cs),
 (15,650,o),
 (9,648,o),
-(5,643,c),
+(5,643,cs),
 (0,638,o),
 (-4,633,o),
 (-5,627,c),
@@ -314,7 +314,7 @@ nodes = (
 width = 306;
 },
 {
-layerId = "E70FFCB9-C703-4CAE-9CF8-4537993847F6";
+layerId = "565F47C8-0ABB-4A45-ACC1-9062093877DB";
 shapes = (
 {
 closed = 1;

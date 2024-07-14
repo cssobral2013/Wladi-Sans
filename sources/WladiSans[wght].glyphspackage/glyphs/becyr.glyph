@@ -2,7 +2,7 @@
 glyphname = becyr;
 layers = (
 {
-layerId = "BB5B5596-5E1F-4BCA-852B-56C614C2EA8E";
+layerId = "801975A8-2B28-48D2-ACC9-91C57621CBC0";
 shapes = (
 {
 closed = 1;
@@ -68,7 +68,7 @@ nodes = (
 width = 593;
 },
 {
-layerId = "E4D0624D-8000-4CFF-8595-BC700BCBE458";
+layerId = "108F7D4A-630E-4424-A5B2-B42F8C482EB9";
 shapes = (
 {
 closed = 1;
@@ -124,7 +124,7 @@ nodes = (
 (267,558,cs),
 (296,559,o),
 (326,553,o),
-(355,554,c),
+(355,554,cs),
 (406,557,o),
 (456,581,o),
 (481,627,c)
@@ -134,7 +134,7 @@ nodes = (
 width = 542;
 },
 {
-layerId = "E70FFCB9-C703-4CAE-9CF8-4537993847F6";
+layerId = "565F47C8-0ABB-4A45-ACC1-9062093877DB";
 shapes = (
 {
 closed = 1;
@@ -187,7 +187,7 @@ nodes = (
 (116,434,c),
 (138,504,o),
 (180,574,o),
-(256,575,c),
+(256,575,cs),
 (288,575,o),
 (319,566,o),
 (349,566,cs),

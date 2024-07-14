@@ -2,7 +2,7 @@
 glyphname = Kjecyr;
 layers = (
 {
-layerId = "BB5B5596-5E1F-4BCA-852B-56C614C2EA8E";
+layerId = "801975A8-2B28-48D2-ACC9-91C57621CBC0";
 shapes = (
 {
 closed = 1;
@@ -34,15 +34,19 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (281,0);
-ref = acutecomb.cap;
+closed = 1;
+nodes = (
+(522,839,l),
+(522,972,l),
+(281,856,l),
+(281,738,l)
+);
 }
 );
 width = 702;
 },
 {
-layerId = "E4D0624D-8000-4CFF-8595-BC700BCBE458";
+layerId = "108F7D4A-630E-4424-A5B2-B42F8C482EB9";
 shapes = (
 {
 closed = 1;
@@ -74,15 +78,19 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (245,0);
-ref = acutecomb.cap;
+closed = 1;
+nodes = (
+(457,857,l),
+(457,933,l),
+(245,807,l),
+(245,742,l)
+);
 }
 );
 width = 602;
 },
 {
-layerId = "E70FFCB9-C703-4CAE-9CF8-4537993847F6";
+layerId = "565F47C8-0ABB-4A45-ACC1-9062093877DB";
 shapes = (
 {
 closed = 1;
@@ -114,9 +122,13 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (231,0);
-ref = acutecomb.cap;
+closed = 1;
+nodes = (
+(431,864,l),
+(431,917,l),
+(231,787,l),
+(231,743,l)
+);
 }
 );
 width = 562;

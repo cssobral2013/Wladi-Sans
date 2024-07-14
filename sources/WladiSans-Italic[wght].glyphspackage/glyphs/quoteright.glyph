@@ -2,49 +2,49 @@
 glyphname = quoteright;
 layers = (
 {
-layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
+layerId = "2916D4A4-8684-4E16-97E6-1E1555060A99";
 shapes = (
 {
 closed = 1;
 nodes = (
-(49,432,l),
-(101,700,l),
-(276,700,l),
-(164,432,l)
+(78,432,l),
+(177,700,l),
+(352,700,l),
+(193,432,l)
 );
 }
 );
-width = 314;
+width = 302;
 },
 {
-layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+layerId = "C58D79E9-5C27-47CF-BCFD-A6E10D98D405";
 shapes = (
 {
 closed = 1;
 nodes = (
-(34,475,l),
-(91,700,l),
-(189,700,l),
-(97,475,l)
+(71,475,l),
+(168,700,l),
+(266,700,l),
+(134,475,l)
 );
 }
 );
-width = 218;
+width = 203;
 },
 {
-layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+layerId = "13CE2B3A-5842-4154-B805-A41E50C98059";
 shapes = (
 {
 closed = 1;
 nodes = (
-(28,492,l),
-(87,700,l),
-(154,700,l),
-(70,492,l)
+(68,492,l),
+(164,700,l),
+(231,700,l),
+(110,492,l)
 );
 }
 );
-width = 180;
+width = 164;
 }
 );
 rightKerningGroup = quoteright;

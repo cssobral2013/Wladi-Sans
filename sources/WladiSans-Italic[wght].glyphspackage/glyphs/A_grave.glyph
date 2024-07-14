@@ -2,22 +2,7 @@
 glyphname = Agrave;
 layers = (
 {
-layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
-shapes = (
-{
-alignment = -1;
-ref = A;
-},
-{
-alignment = -1;
-pos = (233,0);
-ref = gravecomb.cap;
-}
-);
-width = 738;
-},
-{
-layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+layerId = "2916D4A4-8684-4E16-97E6-1E1555060A99";
 shapes = (
 {
 alignment = -1;
@@ -29,10 +14,10 @@ pos = (218,0);
 ref = gravecomb.cap;
 }
 );
-width = 667;
+width = 726;
 },
 {
-layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+layerId = "C58D79E9-5C27-47CF-BCFD-A6E10D98D405";
 shapes = (
 {
 alignment = -1;
@@ -40,11 +25,26 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (212,0);
+pos = (203,0);
 ref = gravecomb.cap;
 }
 );
-width = 639;
+width = 652;
+},
+{
+layerId = "13CE2B3A-5842-4154-B805-A41E50C98059";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (197,0);
+ref = gravecomb.cap;
+}
+);
+width = 623;
 }
 );
 leftKerningGroup = A2;

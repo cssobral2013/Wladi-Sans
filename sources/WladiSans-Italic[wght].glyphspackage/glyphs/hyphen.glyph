@@ -2,36 +2,49 @@
 glyphname = hyphen;
 layers = (
 {
-layerId = "79854D6D-25E7-4737-919A-271E0ABD7EDC";
+layerId = "2916D4A4-8684-4E16-97E6-1E1555060A99";
 shapes = (
 {
-alignment = -1;
-ref = minus;
+closed = 1;
+nodes = (
+(39,218,l),
+(64,360,l),
+(504,360,l),
+(479,218,l)
+);
 }
 );
-width = 540;
+width = 528;
 },
 {
-layerId = "B1C61474-62B7-484B-9764-E73F45C0DC6D";
+layerId = "C58D79E9-5C27-47CF-BCFD-A6E10D98D405";
 shapes = (
 {
-alignment = -1;
-pos = (-4,0);
-ref = minus;
+closed = 1;
+nodes = (
+(53,253,l),
+(65,328,l),
+(463,328,l),
+(450,253,l)
+);
 }
 );
-width = 514;
+width = 501;
 },
 {
-layerId = "617CD1A0-F923-462F-B4E4-BD0161ABA38E";
+layerId = "13CE2B3A-5842-4154-B805-A41E50C98059";
 shapes = (
 {
-alignment = -1;
-pos = (-6,0);
-ref = minus;
+closed = 1;
+nodes = (
+(58,267,l),
+(65,315,l),
+(447,315,l),
+(439,267,l)
+);
 }
 );
-width = 504;
+width = 490;
 }
 );
 leftKerningGroup = minus2;

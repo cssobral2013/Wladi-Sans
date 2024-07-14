@@ -1,0 +1,36 @@
+{
+glyphname = tecyr.loclBGR;
+widthMetricsKey = m;
+layers = (
+{
+layerId = "801975A8-2B28-48D2-ACC9-91C57621CBC0";
+shapes = (
+{
+alignment = -1;
+ref = m;
+}
+);
+width = 985;
+},
+{
+layerId = "108F7D4A-630E-4424-A5B2-B42F8C482EB9";
+shapes = (
+{
+alignment = -1;
+ref = m;
+}
+);
+width = 906;
+},
+{
+layerId = "565F47C8-0ABB-4A45-ACC1-9062093877DB";
+shapes = (
+{
+alignment = -1;
+ref = m;
+}
+);
+width = 875;
+}
+);
+}
