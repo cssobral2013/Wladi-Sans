@@ -135,21 +135,7 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
-    
-srcPath  = './ttf/WladiSans-Black.ttf'
-woffPath = './web/WladiSans-Black.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)    
-
-    
-srcPath  = './ttf/WladiSans-BlackItalic.ttf'
-woffPath = './web/WladiSans-BlackItalic.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)    
+      
 
 
 
@@ -289,17 +275,3 @@ with TTFont(srcPath) as font:
     font.save(woff2Path)    
 
     
-srcPath  = './ttf/WladiSans-Black.ttf'
-woff2Path = './web/WladiSans-Black.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
-
-    
-srcPath  = './ttf/WladiSans-BlackItalic.ttf'
-woff2Path = './web/WladiSans-BlackItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)    
