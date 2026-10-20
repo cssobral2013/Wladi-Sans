@@ -1,6 +1,6 @@
 # Wladi-Sans
 
-Is developed from DM Sans, Figtree, and Unageo fonts. Changes include:
+Is developed from DM Sans, Figtree, and Unageo fonts, and inspired by Circular and Aperçu. Changes include:
 
  - Imported Greek/Cyrillic/Vietnamese support from both Figtree and Unageo fonts;
 
